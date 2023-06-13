@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @vincentovie39
+- 👋 Hi, I’m @codrexy
 - 👀 I’m interested in software development(web and mobile app)
 - 🌱 I’m currently learning Blockchain technology
 - 💞️ I’m looking to collaborate on more complex and exciting projects
 - 📫 How to reach me ?
 - 📧 vincentovie39@gmail.com
 - 📶 https://vincentcollins.netlify.app/
-- https://linkedin.com/in/vincent-ovie/
+- https://linkedin.com/in/codrexy/
 - https://twitter.com/VincentOvie6/
 
 <!---
